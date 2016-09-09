@@ -1,7 +1,9 @@
 eclipse.preferences.version=1
-encoding//WebContent/WEB-INF/jsp/NewFile.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/addUser.jsp=UTF-8
 encoding//WebContent/WEB-INF/jsp/geo-lines.html=UTF-8
 encoding//WebContent/index.jsp=UTF-8
-encoding//src/main/java=UTF-8
-encoding//src/test/java=UTF-8
+encoding//src/main/resource/spring-mvc.xml=UTF-8
+encoding//src/main/resource/spring-mybatis.xml=UTF-8
+encoding//src/test/java/com/its/funny/datamining/test/Test.java=UTF-8
+encoding//src/test/java/com/its/funny/datamining/test/TestUserInsert.java=UTF-8
 encoding/<project>=UTF-8
